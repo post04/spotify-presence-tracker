@@ -19,3 +19,4 @@ use the help command in your server :)
 
 - [ ] Add a command to get the leaderboard of another user, using user id.
 - [ ] Change the database storage to sql from json
+- [ ] Add my command handler so it's easier to read.
