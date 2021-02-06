@@ -17,5 +17,5 @@ use the help command in your server :)
 
 # TODO
 
-- [] Add a command to get the leaderboard of another user, using user id.
-- [] Change the database storage to sql from json
+- [ ] Add a command to get the leaderboard of another user, using user id.
+- [ ] Change the database storage to sql from json
